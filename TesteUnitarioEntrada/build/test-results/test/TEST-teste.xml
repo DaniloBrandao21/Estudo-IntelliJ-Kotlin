@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="teste" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-02T15:10:00" hostname="WGOD-ALP-NO0015" time="0.208">
+  <properties/>
+  <testcase name="Testa os cenarios da portaria" classname="teste" time="0.208"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
